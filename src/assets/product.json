@@ -1,0 +1,26 @@
+﻿[
+  {
+    "pid": "1",
+    "pname": "Red Mi Note 4",
+    "pdescription": "Xiaomi Redmi Note 4 (Gold, 32GB),5.5 inches screen",
+    "price": "6499"
+  },
+  {
+    "pid": "2",
+    "pname": "Samsung Galaxy J7",
+    "pdescription": "The real 4G experience with Ultra Data Saving, Viv",
+    "price": "10670"
+  },
+  {
+    "pid": "3",
+    "pname": "Honor 9 Lite",
+    "pdescription": "Grey, 4GB RAM, 64GB Storage",
+    "price": "9999"
+  },
+  {
+    "pid": "4",
+    "pname": "Moto G5S Plus",
+    "pdescription": "RAM 3GB, 32 GB Storage",
+    "price": "11999"
+  }
+]
